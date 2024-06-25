@@ -1,2 +1,3 @@
 # dictnv-icp-exercise
-# Hello World
+
+Romar Apostol
